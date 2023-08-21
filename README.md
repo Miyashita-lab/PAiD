@@ -25,5 +25,6 @@ License: GPL3.1
 7. 検索のしくみ
 8. 簡単なカルテデータ解析をやってみよう
 9. 簡単なAIをつくって動かしてみよう
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miyashita-lab/PAiD/blob/main/P9_DeepNeuralNetwork.ipynb)
 
 10-15: 企業による実践実習
