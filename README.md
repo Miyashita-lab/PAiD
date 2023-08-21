@@ -1,5 +1,6 @@
 # BPAiD
 Basic Practice for AI and Data science
+AIデータサイエンス基礎実習
 
 This is the text book for Basic Practice for AI and Data Science.
 
